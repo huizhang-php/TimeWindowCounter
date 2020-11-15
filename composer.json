@@ -1,0 +1,17 @@
+{
+    "name": "huizhang/TimeWindowCounter",
+    "authors": [
+        {
+            "name": "huizhang001",
+            "email": "2788828128@qq.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "TimeWindowCounter\\": "src"
+        }
+    }
+}
